@@ -1,6 +1,6 @@
 # Tri2plane
-The repository for 'Tri$^{2}$-plane: Volumetric Avatar Reconstruction with Feature Pyramid'
-> [**Tri$^{2}$-plane: Volumetric Avatar Reconstruction with Feature Pyramid**]([https://arxiv.org/abs/2204.08376](https://arxiv.org/submit/5353524)),  
+The repository for 'Tri^{2}-plane: Volumetric Avatar Reconstruction with Feature Pyramid'
+> [**Tri^{2}-plane: Volumetric Avatar Reconstruction with Feature Pyramid**]([https://arxiv.org/submit/5353524]),  
 > *Arxiv 204*
 
 
