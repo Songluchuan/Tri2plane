@@ -1,7 +1,8 @@
 # Tri2plane
 The repository for 'Tri<sup>2</sup>-plane: Volumetric Avatar Reconstruction with Feature Pyramid'
-> [**Tri<sup>2</sup>-plane: Volumetric Avatar Reconstruction with Feature Pyramid**](https://arxiv.org/submit/5353524),  
-> *Arxiv 204*
+> [**Tri<sup>2</sup>-plane: Volumetric Avatar Reconstruction with Feature Pyramid**](https://arxiv.org/submit/5353524),
+> Luchuan Song, Pinxin Liu, Lele Chen, Celong Liu and Chenliang Xu
+> *Arxiv 2024*
 
 
 <div align="center">
