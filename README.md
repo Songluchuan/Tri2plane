@@ -2,7 +2,7 @@
 The repository for 'Tri$^{2}$-plane: Volumetric Avatar Reconstruction with Feature Pyramid'
 <div align="center">
 <!--   <a href="https://github.com/Songluchuan/Tri2plane" target="_blank"> -->
-    <img src="media/Teaser.png" alt="" width="1120" style="height: auto;" />
+    <img src="media/Teaser.jpg" alt="" width="1120" style="height: auto;" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@ Recent years have witnessed considerable achievements in facial avatar reconstru
 <h2 align="center">Video</h2>
 <div align="center">
   <a href="https://github.com/Songluchuan/Tri2plane" target="_blank">
-    <img src="media/video.png" alt="youtube video" width="1120" style="height: auto;" />
+    <img src="media/video.jpg" alt="youtube video" width="1120" style="height: auto;" />
   </a>
 </div>
 
