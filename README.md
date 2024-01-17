@@ -1,5 +1,9 @@
 # Tri2plane
 The repository for 'Tri$^{2}$-plane: Volumetric Avatar Reconstruction with Feature Pyramid'
+> [**Tri$^{2}$-plane: Volumetric Avatar Reconstruction with Feature Pyramid**]([https://arxiv.org/abs/2204.08376](https://arxiv.org/submit/5353524)),  
+> *Arxiv 204*
+
+
 <div align="center">
 <!--   <a href="https://github.com/Songluchuan/Tri2plane" target="_blank"> -->
     <img src="media/Teaser.jpg" alt="" width="1120" style="height: auto;" />
