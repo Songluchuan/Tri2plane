@@ -35,6 +35,5 @@ Recent years have witnessed considerable achievements in facial avatar reconstru
   author={Song, Luchuan and Liu, Pinxin and Chen, Lele and Liu, Celong and Xu, Chenliang},
   journal={arXiv preprint arXiv:2401.09386},
   year={2024}
-}
 ```
 
