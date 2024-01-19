@@ -29,7 +29,7 @@ Recent years have witnessed considerable achievements in facial avatar reconstru
 
 
 <h2 align="center">Citation</h2>
-```commandline
+```commandline   
 @article{song2024tri,
   title={Tri $\^{}$\{$2$\}$ $-plane: Volumetric Avatar Reconstruction with Feature Pyramid},
   author={Song, Luchuan and Liu, Pinxin and Chen, Lele and Liu, Celong and Xu, Chenliang},
