@@ -1,9 +1,9 @@
-# Tri2plane
+# Tri2Plane
 The repository for 'Tri<sup>2</sup>-plane: Volumetric Avatar Reconstruction with Feature Pyramid'
 > [**Tri<sup>2</sup>-plane: Thinking Head Avatar via Feature Pyramid**],    
 > *Arxiv Link: [https://arxiv.org/abs/2401.09386](https://arxiv.org/abs/2401.09386)*,   
 > *Luchuan Song, Pinxin Liu, Lele Chen, Guojun Yin and Chenliang Xu*,
-> 
+> *Project Page: [https://songluchuan.github.io/Tri2Plane.github.io/](https://songluchuan.github.io/Tri2Plane.github.io/)*    
 > *Arxiv 2024* 
 
 
