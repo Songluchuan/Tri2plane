@@ -19,9 +19,9 @@ Recent years have witnessed considerable achievements in facial avatar reconstru
 <h2 align="center">Code (Coming Soon)</h2>
 
 
-<h2 align="center">Video (Coming Soon)</h2>
+<h2 align="center">Video</h2>
 <div align="center">
-  <a href="https://github.com/Songluchuan/Tri2plane" target="_blank">
+  <a href="https://www.youtube.com/watch?v=qU7zijI2DCQ" target="_blank">
     <img src="media/video.jpg" alt="youtube video" width="1120" style="height: auto;" />
   </a>
 </div>
