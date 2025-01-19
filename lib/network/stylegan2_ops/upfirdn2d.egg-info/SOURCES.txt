@@ -1,0 +1,7 @@
+setup.py
+upfirdn2d.cpp
+upfirdn2d_kernel.cu
+upfirdn2d.egg-info/PKG-INFO
+upfirdn2d.egg-info/SOURCES.txt
+upfirdn2d.egg-info/dependency_links.txt
+upfirdn2d.egg-info/top_level.txt

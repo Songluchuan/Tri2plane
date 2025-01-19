@@ -1,0 +1,35 @@
+load_avatarmodule_checkpoint: 'checkpoints/avatar_yh-talk-8_mask/latest'
+gpu_ids: [0]
+
+dataset:
+  dataroot: './demo_dataset'
+  video_name: 'yh-talk-8/'
+  mode: eval
+  resolution: 512
+
+avatarmodule:
+  exp_dim_2d: 256
+  encoder_dims: [6, 32, 64, 128, 256]
+  mapping_dims: [335, 256, 256, 128]
+  headmodule:
+    density_mlp: [32, 128, 1]
+    color_mlp: [59, 128, 32]
+    view_freq: 4
+    noise: 0.01
+    bbox: [[-1.5, 1.5], [-1.8, 1.8], [-1.9, 1.1]]
+    triplane_res: 512
+    triplane_dim: 32
+    triplane_n: 3
+    exp_dim_3d: 128
+  upsampler_capacity: 32
+  
+neuralcamera:
+  model_bbox: [[-1.5, 1.5], [-1.8, 1.8], [-1.9, 1.1]]
+  image_size: 512
+  N_samples: 32
+  near_far: [3.5, 4.5]
+
+
+recorder:
+  name: 'reenactment'
+  result_path: 'results'
