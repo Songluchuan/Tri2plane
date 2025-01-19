@@ -32,6 +32,7 @@ You can install the package by running
 ```
 conda env create -f environments.yml
 ```
+If you run into any issues installing PyTorch3D, try compiling and installing it manually.
 
 ### Data Preprocessing
 ----
