@@ -27,9 +27,16 @@ Python 3.8+ and PyTorch 1.13.0+cu116.
 
 
 ### Installation
+----
+
 ### Data Preprocessing
+----
+
 ### Training
+----
+
 ### Reenactment
+----
 
 <h2 align="center">Video</h2>
 <div align="center">
