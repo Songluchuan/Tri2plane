@@ -23,7 +23,7 @@ Recent years have witnessed considerable achievements in facial avatar reconstru
 ----
 Python 3.8+ and PyTorch 1.13.0+cu116.
 
-Note: The code has been tested only with PyTorch 1.13.0, there are no guarantees that it is compatible with other versions. 
+**Note**: The code has been tested only with PyTorch 1.13.0, there are no guarantees that it is compatible with other versions. 
 
 
 ### Installation
