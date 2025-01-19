@@ -20,6 +20,10 @@ Recent years have witnessed considerable achievements in facial avatar reconstru
 <h2 align="center">Code</h2>
 
 1. Requirements
+2. Installation
+3. Data Preprocessing
+4. Training
+5. Reenactment
 
 <h2 align="center">Video</h2>
 <div align="center">
