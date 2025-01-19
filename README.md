@@ -19,14 +19,16 @@ Recent years have witnessed considerable achievements in facial avatar reconstru
 
 <h2 align="center">Code</h2>
 
-1. Requirements
-   Python 3.8+ and PyTorch 1.13.0+cu116.
+## Requirements
+
+Python 3.8+ and PyTorch 1.13.0+cu116.
 
 The code has been tested only with PyTorch 1.13.0, there are no guarantees that it is compatible with other versions. 
-3. Installation
-4. Data Preprocessing
-5. Training
-6. Reenactment
+
+## Installation
+## Data Preprocessing
+## Training
+## Reenactment
 
 <h2 align="center">Video</h2>
 <div align="center">
