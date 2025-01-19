@@ -20,28 +20,32 @@ Recent years have witnessed considerable achievements in facial avatar reconstru
 <h2 align="center">Code</h2>
 
 ### Requirements
------
+
 Python 3.8+ and PyTorch 1.13.0+cu116.
 
 **Note**: The code has been tested only with PyTorch 1.13.0, there are no guarantees that it is compatible with other versions. 
 
 
+-----
 ### Installation
-----
+
 You can install the package by running
 ```
 conda env create -f environments.yml
 ```
 If you run into any issues installing PyTorch3D, try compiling and installing it manually.
 
+-----
 ### Data Preprocessing
-----
 
+
+----
 ### Training
-----
 
-### Reenactment
+
 ----
+### Reenactment
+
 
 <h2 align="center">Video</h2>
 <div align="center">
