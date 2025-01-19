@@ -28,6 +28,10 @@ Python 3.8+ and PyTorch 1.13.0+cu116.
 
 ### Installation
 ----
+You can install the package by running
+```
+conda env create -f environments.yml
+```
 
 ### Data Preprocessing
 ----
