@@ -9,7 +9,7 @@ from torch_utils import misc
 
 from training.networks_stylegan2 import SynthesisBlock
 import numpy as np
-
+import torch
 
 #----------------------------------------------------------------------------
 
@@ -42,3 +42,23 @@ class SuperresolutionHybrid8X(torch.nn.Module):
         x, rgb = self.block0(x, rgb, ws, **block_kwargs)
         x, rgb = self.block1(x, rgb, ws, **block_kwargs)
         return rgb
+
+def maskErosion(self, mask, erosionFactor):
+    offsetY = int(erosionFactor * 40)
+    # throat
+    mask2 = mask[:,:,0:-offsetY,:]
+    mask2 = torch.cat([torch.ones_like(mask[:,:,0:offsetY,:]), mask2], 2)
+    # forehead
+    offsetY = int(erosionFactor * 8) #<<<<
+    mask3 = mask[:,:,offsetY:,:]
+    mask3 = torch.cat([mask3, torch.ones_like(mask[:,:,0:offsetY,:])], 2)
+    mask = mask * mask2 * mask3
+
+    offsetX = int(erosionFactor * 15)
+    # left
+    mask4 = mask[:,:,:,0:-offsetX]
+    mask4 = torch.cat([torch.ones_like(mask[:,:,:,0:offsetX]), mask4], 3)
+    # right
+    mask5 = mask[:,:,:,offsetX:]
+    mask5 = torch.cat([mask5,torch.ones_like(mask[:,:,:,0:offsetX])], 3)
+    return mask * mask4 * mask5
